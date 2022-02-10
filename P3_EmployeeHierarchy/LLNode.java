@@ -1,5 +1,5 @@
 /**
- * The node of a linked list
+ * @Author Harold Connamacher (Case Western Reserve University)
  */
 public class LLNode<T> {
   /** the element stored in the node */
