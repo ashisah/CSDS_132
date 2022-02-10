@@ -1,6 +1,7 @@
 import java.util.NoSuchElementException;
 import java.util.Iterator;
 /**
+ * @author Professor Harold Connamacher of Case Western Reserve University
  * A class to represent a linked list of nodes.
  */
 public class LinkedList<T> implements Iterable<T> {
